@@ -56,6 +56,7 @@ python app.py
 * View the combined RSS feed at http://127.0.0.1:8000/mixed-rss.
 
 <h3>Project Structure</h3>
+
 ```
 yt-video-downloader/
 ├── app.py              # Main application file
@@ -65,7 +66,6 @@ yt-video-downloader/
 ├── youtube_videos/     # Directory where videos are downloaded
 └── templates/
     └── index.html      # HTML template for the web interface
-
 ```
 
 <h3>Configuration</h3>
