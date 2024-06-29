@@ -78,8 +78,3 @@ yt-video-downloader/
 Contributions are welcome! Please fork the repository and submit a pull request for any improvements or bug fixes.
 
 Note: I made this by using chatgpt and asking the right questions, while having limited knowledge of coding. Any bugfixes are welcome. I might discontinue this project any time, rendering the file as is for archival or reference use.
-
-Step 1: Ensure Your Directory Structure
-Ensure your directory structure looks like this:
-
-```
