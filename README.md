@@ -50,7 +50,6 @@ python app.py
 
 <h3>Usage</h3>
 
-- Web Interface:
 * Access the web interface at http://127.0.0.1:8000/ to view and watch downloaded videos.
 * View the RSS feed for downloaded videos at http://127.0.0.1:8000/rss.
 * View the combined RSS feed at http://127.0.0.1:8000/mixed-rss.
