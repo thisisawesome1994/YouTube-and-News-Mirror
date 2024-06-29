@@ -1,0 +1,8 @@
+your_project/
+├── app.py
+├── channel_ids.txt
+├── rss_feeds.txt
+├── requirements.txt
+├── youtube_videos/
+└── templates/
+    └── index.html
