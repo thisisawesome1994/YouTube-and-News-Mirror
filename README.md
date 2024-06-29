@@ -38,11 +38,10 @@ pip install -r requirements.txt
 ```
 
 3. Create necessary files:
-```
+
 - channel_ids.txt: Add YouTube channel IDs (one per line) to this file.
 - rss_feeds.txt: Add RSS feed URLs (one per line) to this file.
 
-```
 4. Run the application:
 ```
 python app.py
